@@ -65,4 +65,3 @@ No proprietary reference APKs, manufacturer logos/assets, signing keys, patient 
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md). Keep real health data, serial numbers, Bluetooth addresses and credentials out of public issues. See [SECURITY.md](SECURITY.md) for reporting security/privacy concerns.
-

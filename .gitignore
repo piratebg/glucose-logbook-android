@@ -1,0 +1,40 @@
+# Local build and IDE state
+.gradle/
+**/.gradle/
+**/build/
+.idea/
+*.iml
+**/local.properties
+.DS_Store
+Thumbs.db
+
+# Signing/authentication material
+*.jks
+*.keystore
+**/keystore.properties
+**/signing.properties
+.env
+.env.*
+*.pem
+*.p12
+
+# Reference binaries and generated/personal health data
+reference-apks/
+existing-project/
+releases/
+*.apk
+*.aab
+*.db
+*.db-*
+*.sqlite*
+*.csv
+*.pdf
+*.log
+captures/
+exports/
+screenshots/
+**/report-preview/
+
+# Keep the standard open-source Gradle wrapper JAR.
+!android/gradle/wrapper/gradle-wrapper.jar
+.kotlin/
